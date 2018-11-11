@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TravisTune</string>
+    <string name="default_recording_name">recording.wav</string>
 </resources>
