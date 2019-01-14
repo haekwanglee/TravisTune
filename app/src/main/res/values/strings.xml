@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">TravisTune</string>
     <string name="default_recording_name">recording.wav</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_mic_fragment">MicFragment</string>
+    <string name="recording_started_toast">Recording started</string>
+    <string name="error">Error</string>
+
 </resources>

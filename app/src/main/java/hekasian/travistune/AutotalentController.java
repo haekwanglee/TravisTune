@@ -59,6 +59,16 @@ public class AutotalentController {
         mAutotalent.setLfoSymmetric(DEFAULT_LFO_SYM);
         mAutotalent.setLfoQuantization(DEFAULT_LFO_QUANT);
 
+        // TODO: shared prefs values
+        mAutotalent.setKey('C');
+        mAutotalent.setFixedPull(0.0f);
+        mAutotalent.setPitchShift(0.0f);
+        mAutotalent.setStrength(1.0f);
+        mAutotalent.setSmoothness(0.0f);
+        mAutotalent.enableFormantCorrection(false);
+        mAutotalent.setFormantWarp(-1.0f);
+        mAutotalent.setMix(1.0f);
+
         /*
         char key = sharedPrefs.getString(
                 mContext.getResources().getString(R.string.prefs_key_key),
