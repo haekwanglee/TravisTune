@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\.cxx\\Debug\\4p5i2m6d\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\.cxx\\Debug\\4p5i2m6d\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "autotalent::@6890427a1f51a3e7e1df": {
+      "artifactName": "autotalent",
+      "abi": "x86",
+      "output": "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\build\\intermediates\\cxx\\Debug\\4p5i2m6d\\obj\\x86\\libautotalent.so",
+      "runtimeFiles": []
+    }
+  }
+}
