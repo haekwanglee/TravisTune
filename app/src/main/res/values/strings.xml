@@ -7,5 +7,6 @@
     <string name="title_activity_mic_fragment">MicFragment</string>
     <string name="recording_started_toast">Recording started</string>
     <string name="error">Error</string>
+    <string name="permission_denied">Permission denied</string>
 
 </resources>

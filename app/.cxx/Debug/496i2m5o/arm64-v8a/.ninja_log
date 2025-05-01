@@ -1,0 +1,12 @@
+# ninja log v5
+1	617	7677246422747405	CMakeFiles/autotalent.dir/fft.c.o	505572b68f746e7c
+111	625	7677246422872787	CMakeFiles/autotalent.dir/mayer_fft.c.o	fb6a62eaf455e2b1
+150	730	7677246423795662	CMakeFiles/autotalent.dir/net_sourceforge_autotalent_Autotalent.c.o	2f6918a021adef91
+46	776	7677246424262358	CMakeFiles/autotalent.dir/autotalent.c.o	1e46af252c561ca9
+777	1831	7677246434872202	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+8	2435	7677777263204426	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+17	601	7677878858515373	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+22	1579	7677880691012974	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+21	677	7677883495642774	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+11	1175	7677913216544021	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae
+24	890	7677916045361432	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/496i2m5o/obj/arm64-v8a/libautotalent.so	6467a71185cd6cae

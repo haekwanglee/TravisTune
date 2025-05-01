@@ -1,0 +1,6 @@
+# ninja log v5
+60	903	7677238961582610	CMakeFiles/autotalent.dir/fft.c.o	505572b68f746e7c
+100	940	7677238962075924	CMakeFiles/autotalent.dir/mayer_fft.c.o	fb6a62eaf455e2b1
+216	1111	7677238963685029	CMakeFiles/autotalent.dir/net_sourceforge_autotalent_Autotalent.c.o	2f6918a021adef91
+1	1136	7677238963895712	CMakeFiles/autotalent.dir/autotalent.c.o	1e46af252c561ca9
+1138	2148	7677238974339505	C:/Users/haekw/WorkSpace/TravisTune/app/build/intermediates/cxx/Debug/6s926k1p/obj/arm64-v8a/libautotalent.so	946ebd26d6f19739

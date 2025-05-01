@@ -1,0 +1,1 @@
+C:\Users\haekw\WorkSpace\TravisTune\app\src\main\jni\CMakeLists.txt

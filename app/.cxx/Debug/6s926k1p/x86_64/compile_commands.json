@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/haekw/WorkSpace/TravisTune/app/.cxx/Debug/6s926k1p/x86_64",
+  "command": "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/haekw/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dautotalent_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\autotalent.dir\\autotalent.c.o -c C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\autotalent.c",
+  "file": "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\autotalent.c"
+},
+{
+  "directory": "C:/Users/haekw/WorkSpace/TravisTune/app/.cxx/Debug/6s926k1p/x86_64",
+  "command": "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/haekw/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dautotalent_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\autotalent.dir\\fft.c.o -c C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\fft.c",
+  "file": "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\fft.c"
+},
+{
+  "directory": "C:/Users/haekw/WorkSpace/TravisTune/app/.cxx/Debug/6s926k1p/x86_64",
+  "command": "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/haekw/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dautotalent_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\autotalent.dir\\mayer_fft.c.o -c C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\mayer_fft.c",
+  "file": "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\mayer_fft.c"
+},
+{
+  "directory": "C:/Users/haekw/WorkSpace/TravisTune/app/.cxx/Debug/6s926k1p/x86_64",
+  "command": "C:\\Users\\haekw\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/haekw/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dautotalent_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\autotalent.dir\\net_sourceforge_autotalent_Autotalent.c.o -c C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\net_sourceforge_autotalent_Autotalent.c",
+  "file": "C:\\Users\\haekw\\WorkSpace\\TravisTune\\app\\src\\main\\jni\\net_sourceforge_autotalent_Autotalent.c"
+}
+]
